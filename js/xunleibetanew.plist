@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://7xnusr.com1.z0.glb.clouddn.com/o_1d5dp9j59hd512fj1hrsikc15hg7.ipa?e=1568269681&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:n7lzPo6nmnhX1foc426xpFZrGTY=</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <string>NO</string>
+                    <key>url</key>
+                    <string>http://7xnvqo.com1.z0.glb.clouddn.com/8ff1bb920dfd84d0329ee2510b549c3aab23a876</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <string>NO</string>
+                    <key>url</key>
+                    <string>http://7xnvqo.com1.z0.glb.clouddn.com/1b28c65c8eaa8bb167071a8cf033f7da16fb041e</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.xunlei.iosthunder</string>
+                <key>bundle-version</key>
+                <string>5.33(5.33.1.6268)</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string> SHENZHEN SPAN LOGISTICS LIMITED IEAP 【供应商ASO】</string>
+                <key>title</key>
+                <string> 迅雷Beta</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
