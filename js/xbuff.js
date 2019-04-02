@@ -179,7 +179,7 @@ function getdata(url) {
         url: $cache.get("info").turl + $cache.get("py"),
         header: {
             "Content-Type": "application/x-www-form-urlencoded",
-            "User-Agent": "iphoneLive/1.1 (iPhone; iOS 12.0; Scale/2.00)"
+            "User-Agent": "okhttp/3.10.0"
         },
         handler: function (resp) {
             var data = resp.data.data.info;
