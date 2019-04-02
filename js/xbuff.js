@@ -11,7 +11,7 @@ if($app.info.bundleID == "app.cyan.pin"){
     return;
 }
 var itemHeight = $device.info.screen.height
-const base64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FmZWlnb3Jnb3IvZ29yZ29yL21hc3Rlci9qcy9reWouanNvbg=="
+const base64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FmZWlnb3Jnb3IvZ29yZ29yL21hc3Rlci9qcy94YnVmZi5qc29u"
 $ui.loading(true)
 $http.get({
   url: $text.base64Decode(base64.replace(/lz/, "20")),
