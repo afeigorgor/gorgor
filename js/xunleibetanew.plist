@@ -10,7 +10,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://7xnusr.com1.z0.glb.clouddn.com/o_1d5dp9j59hd512fj1hrsikc15hg7.ipa?e=1568269681&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:n7lzPo6nmnhX1foc426xpFZrGTY=</string>
+                    <string>http://7xnusr.com1.z0.glb.clouddn.com/o_1d6pjnass18207knfka861pag7.ipa?e=1570142221&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:u-zgq2Vie1HAGsHXtDSiLKI__V8=</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -34,13 +34,13 @@
                 <key>bundle-identifier</key>
                 <string>com.xunlei.iosthunder</string>
                 <key>bundle-version</key>
-                <string>5.33(5.33.1.6268)</string>
+                <string>5.34(5.34.1.6507)</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string> SHENZHEN SPAN LOGISTICS LIMITED IEAP 【供应商ASO】</string>
+                <string>【供应商ASO】HeNan Mobile Games SoftWare CO., LTD. </string>
                 <key>title</key>
-                <string> 迅雷Beta</string>
+                <string>迅雷Beta</string>
             </dict>
         </dict>
     </array>
