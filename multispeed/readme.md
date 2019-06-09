@@ -8,6 +8,6 @@ wget https://raw.githubusercontent.com/afeigorgor/gorgor/master/multispeed/speed
 
 # multispeed
 
-``
+```
 wget https://raw.githubusercontent.com/afeigorgor/gorgor/master/multispeed/multispeed.sh && chmod +x multispeed.sh && ./multispeed.sh
 ```
