@@ -2,5 +2,5 @@
 
 ```bash
 
-wget https://raw.githubusercontent.com/afeigorgor/gorgor/master/superspeed.sh && chmod +x superspeed.sh && ./superspeed.sh
+wget https://raw.githubusercontent.com/afeigorgor/gorgor/master/multispeed/speed.sh && chmod +x speed.sh && ./speed.sh
 ```
